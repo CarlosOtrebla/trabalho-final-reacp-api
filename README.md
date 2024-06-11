@@ -1,2 +1,2 @@
-# trabalho-final-reacp-api
+# trabalho-final-react-api
 Api do trabalho final
